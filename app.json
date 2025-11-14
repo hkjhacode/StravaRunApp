@@ -1,0 +1,7 @@
+{
+    "app_name": "StravaRunApp",
+    "package_name": "stravarunnapp",
+    "source_dir": "app",
+    "orientation": "portrait",
+    "permissions": ["ACCESS_FINE_LOCATION", "INTERNET"]
+  }
